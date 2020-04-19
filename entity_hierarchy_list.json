@@ -1,0 +1,27 @@
+[{
+        "enity_id": "sample1",
+        "title": "Sample Parent Entity 1",
+        "child_entities": [{
+                "entity_id": "sample1_child_1",
+                "title": "Sample 1 Child Entity 1"
+            },
+            {
+                "entity_id": "sample1_child_2",
+                "title": "Sample 1 Child Entity 2"
+            }
+        ]
+    },
+    {
+        "enity_id": "sample2",
+        "title": "Sample Parent Entity 2",
+        "child_entities": [{
+                "entity_id": "sample2_child_1",
+                "title": "Sample 2 Child Entity 1"
+            },
+            {
+                "entity_id": "sample2_child_2",
+                "title": "Sample 2 Child Entity 2"
+            }
+        ]
+    }
+]
