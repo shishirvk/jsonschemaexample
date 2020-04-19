@@ -1,3 +1,3 @@
 # jsonschemaexample
 
-A project to demostrate usage of json-schemas.
+A project to demonstrate usage of json-schemas.
